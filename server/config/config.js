@@ -9,7 +9,7 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 //Base de datos
 let urlDB;
 if (process.env.NODE_ENV === 'dev') {
-    urlDB = "mongodb+srv://cocoa:Programar.1234@cluster0.azijh.mongodb.net/cocoa";
+    urlDB = "base_datos";
 } else {
     urlDB = process.env.MONGO_URI
 }
