@@ -15,6 +15,8 @@ La  aplicación implementa  la creación de usuarios cada uno de estos con un US
 
 <a href="https://rodrigo.onrender.com/" target="_blank"><img  alt="PokeApp" height="40px" src="https://raw.githubusercontent.com/8rb/Portfolio/master/public/images/Rodrigo%20Favicon.ico" /></a>
 
+En el registro de usuarios se implemento token y se encripto la contrasñea  par tener una aplicacion robusta elevando la seguridad par que el usuario tenga la confianza de utilizar la aplicación. 
+
 <br/>
 
 ### Instalación:
