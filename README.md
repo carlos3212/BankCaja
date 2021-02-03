@@ -44,14 +44,17 @@ _nodemon server.js_
 ### Desplegado en Heroku
 - Variables locales
 
-_MONGO URI_ : En esta varibale se encuentra almacenada la base de daots mongo DB 
+_MONGO URI_ : En esta varibale se encuentra almacenada la base de datos mongo DB 
 
-_SEED_ : Almacendad la clave de producción
+_SEED_ : Almacenamosla clave de producción
 - link:  https://bankcajas.herokuapp.com/
 
 <br/>
 <br/>
-## Uso
+.
+# Uso
+Par consumir el servicio se  utilizara POSTMAN
+
 
 ### POST
 - Login
@@ -60,20 +63,22 @@ Ingresamos los datos del  usuario Administrador
 ![ScreenshotPOST](assets/post_login.JPG)
 
 - Uso del tocken
-Copiamos el tocken generado en el logeo y en el apartado de head creamos la variabl token y pegamos el tocken esto realizamos para realizar cualquier acción dentro del la api
+Copiamos el token generado en el logeo y en el apartado de head creamos la variabl token y pegamos el token esto realizamos para realizar cualquier acción dentro del la api
 ![ScreenshotPOST](assets/get_registro.JPG)
 -  Registrar
-Ingresamos el tocken y procedemos a ingrear los datos de registro
+
+Ingresamos el token y procedemos a ingrear los datos de registro
 ![ScreenshotPOST](assets/post_registro.JPG)
 
 ### GET
 - Ver usuarios registrados
-![ScreenshotPOST](assets/ver_usuarios)
+![ScreenshotPOST](assets/ver_usuarios.JPG)
 
-- Buscar cja  
+- Buscar caja  
 Realizamos la busqueda por fecha
 ![ScreenshotPOST](assets/get_cajaecha.JPG)
 - Eliminar caja
+
 Ingresamos el Id en el link
 ![ScreenshotPOST](assets/delet_delet.JPG)
 
