@@ -54,6 +54,7 @@ _SEED_ : Almacendad la clave de producción
 <img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
 </div>
 
+![ScreenshotPOST](assets/delet_delet.JPG)
 
 <br/>
 
