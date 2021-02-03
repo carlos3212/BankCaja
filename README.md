@@ -1,6 +1,7 @@
+# Documentacion API
 #  Rest Server \ Bank Caja
 
-##👋 Desarollado por Carlos Andrade
+### 👋 Desarollado por Carlos Andrade
 
 - 💻 I’m a Software Engineering Student
 - ✏️ I like to develop Web Applications
@@ -21,6 +22,7 @@ Para la instalación de la API debemos tener  instalado:
 - NodeJS
  
 <img alt="JavaScript" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+
 - MongoDB
 
 <img alt="TypeScript" height="60px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
