@@ -91,8 +91,7 @@ Ingresamos el Id en el link
 
 ### Top Languages:
 
-<div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=Interlab-Webapps,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=dbdbdb&text_color=dbdbdb" />
+![ScreenshotPOST](assets/lenguaje.JPG)
 </div>  
 
 ### Uso
@@ -102,12 +101,6 @@ Ingresamos el Id en el link
 </div>
 
 
-### My Spotify right now:
+### Agradecimeinto
 
-[![Spotify](https://spotifyplaying-pphmmwf12.vercel.app/api/spotify)](https://open.spotify.com/user/rodrigo8rb)
-
-<br/>
-
-<br/>
-
-Credits to: codeSTACKr, anuraghazra and novatorem for this amazing Profile Template!
+En agradecimineto al concimiento  impartido por el  Ing. Rodrigo Tufiño en la materia Desarollo de software 
