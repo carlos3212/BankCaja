@@ -62,6 +62,9 @@ Par consumir el servicio se  utilizara POSTMAN
 - Login
 
 Ingresamos los datos del  usuario Administrador
+
+_link_ : https://bankcajas.herokuapp.com/login
+
 ![ScreenshotPOST](assets/post_login.JPG)
 
 - Uso del token
@@ -72,19 +75,36 @@ Copiamos el token generado en el logeo y en el apartado de head creamos la varia
 
 Ingresamos el token y procedemos a ingrear los datos de registro
 
+_link_ : https://bankcajas.herokuapp.com/usuario
+
 ![ScreenshotPOST](assets/ver_usuarios.JPG)
+
+- Ingresar caja
+
+Ingresamos el token e ingresamos el numeor de caja
+
+_link_ : https://bankcajas.herokuapp.com/caja
+
+![ScreenshotPOST](assets/post_caja.JPG)
 
 ### GET
 - Ver usuarios registrados
+
+_link_ : https://bankcajas.herokuapp.com/usuario
 ![ScreenshotPOST](assets/post_registro.JPG)
 
 
 - Buscar caja  
 Realizamos la busqueda por fecha
+
+_link_ : https://bankcajas.herokuapp.com/caja?fecha=2021-01-12
+
 ![ScreenshotPOST](assets/get_cajaecha.JPG)
 - Eliminar caja
 
 Ingresamos el Id en el link
+
+_link_ : https://bankcajas.herokuapp.com/caja/600f82ceece5aa201ebbdc26
 ![ScreenshotPOST](assets/delet_delet.JPG)
 
 
