@@ -55,6 +55,11 @@ _SEED_ : Almacendad la clave de producción
 </div>
 
 ![ScreenshotPOST](assets/delet_delet.JPG)
+![ScreenshotPOST](assets/get_cajaecha.JPG)
+![ScreenshotPOST](assets/get_registro.JPG)
+![ScreenshotPOST](assets/post_login.JPG)
+![ScreenshotPOST](assets/post_registro.JPG)
+![ScreenshotPOST](assets/ver_usuarios)
 
 <br/>
 
