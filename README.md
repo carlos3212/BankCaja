@@ -45,7 +45,9 @@ npm install
 ```
 node server.js
 ```
-_nodemon server.js_
+```
+nodemon server.js
+```
 
 ### Desplegado en Heroku
 - Crear una app
@@ -55,14 +57,14 @@ heroku git:remote -a nombre_repositorio
 ```
 - Desplegamos la app
 ```
-git push heroku master
+git push heroku main
 ```
 - Variables locales
 ```
-MONGO_URI : En esta varibale se encuentra almacenada la base de datos mongo DB 
+heroku config:set MONGO_URI=En esta varibale se encuentra almacenada la base de datos mongo DB 
 ```
 ```
-SEED : Almacenamos la clave de producción
+heroku config:set SEED=Almacenamos la clave de producción
 ```
 - link:  https://bankcajas.herokuapp.com/
 
