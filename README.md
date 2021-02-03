@@ -1,4 +1,4 @@
-# Documentacion API
+# Documentación API
 #  Rest Server \ Bank Caja
 
 ### 👋 Desarollado por Carlos Andrade
@@ -35,20 +35,23 @@ Para la instalación de la API debemos tener  instalado:
 ### Pasos para la instalción
 - Clonar el repositorio de <img alt="Git" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 - Instalar las dependecias
-
-_npm install_
+```
+npm install
+```
 - Ejecutar el codigo
-
-_node server.js_
-
+```
+node server.js
+```
 _nodemon server.js_
 
 ### Desplegado en Heroku
 - Variables locales
-
-_MONGO URI_ : En esta varibale se encuentra almacenada la base de datos mongo DB 
-
-_SEED_ : Almacenamos la clave de producción
+```
+MONGO_URI : En esta varibale se encuentra almacenada la base de datos mongo DB 
+```
+```
+SEED : Almacenamos la clave de producción
+```
 - link:  https://bankcajas.herokuapp.com/
 
 
