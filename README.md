@@ -25,6 +25,11 @@ Para la instalación de la API debemos tener  instalado:
 
 <img alt="TypeScript" height="60px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
 
+- Postman
+
+<img alt="TypeScript" height="60px" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg" />
+
+
 ### Pasos para la instalción
 - Clonar el repositorio de <img alt="Git" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 - Instalar las dependecias
@@ -46,17 +51,19 @@ _SEED_ : Almacendad la clave de producción
 
 <br/>
 <br/>
+## Uso
 
+### POST
+- Login
 
-### Uso
-
-<div markdown="1">
-<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
-</div>
-
+Ingresamos los datos del  usuario Administrador
 ![ScreenshotPOST](assets/delet_delet.JPG)
-![ScreenshotPOST](assets/get_cajaecha.JPG)
+- Registrar
+Copiamos el tocken generado en el logeo y en el apartado de head creamos la variabl TOKEN y pegamos el tocken esto realizamos para realizar cualquier acción dentro del la api
 ![ScreenshotPOST](assets/get_registro.JPG)
+- 
+![ScreenshotPOST](assets/get_cajaecha.JPG)
+
 ![ScreenshotPOST](assets/post_login.JPG)
 ![ScreenshotPOST](assets/post_registro.JPG)
 ![ScreenshotPOST](assets/ver_usuarios)
@@ -68,6 +75,13 @@ _SEED_ : Almacendad la clave de producción
 <div markdown="1">
 <img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=Interlab-Webapps,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=dbdbdb&text_color=dbdbdb" />
 </div>  
+
+### Uso
+
+<div markdown="1">
+<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
+</div>
+
 
 ### My Spotify right now:
 
