@@ -27,7 +27,7 @@ Para la instalación de la API debemos tener  instalado:
 
 - Postman
 
-<img alt="TypeScript" height="60px" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg" />
+<img alt="TypeScript" height="40px" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg" />
 
 
 ### Pasos para la instalción
@@ -57,16 +57,27 @@ _SEED_ : Almacendad la clave de producción
 - Login
 
 Ingresamos los datos del  usuario Administrador
-![ScreenshotPOST](assets/delet_delet.JPG)
-- Registrar
-Copiamos el tocken generado en el logeo y en el apartado de head creamos la variabl TOKEN y pegamos el tocken esto realizamos para realizar cualquier acción dentro del la api
-![ScreenshotPOST](assets/get_registro.JPG)
-- 
-![ScreenshotPOST](assets/get_cajaecha.JPG)
-
 ![ScreenshotPOST](assets/post_login.JPG)
+
+- Uso del tocken
+Copiamos el tocken generado en el logeo y en el apartado de head creamos la variabl token y pegamos el tocken esto realizamos para realizar cualquier acción dentro del la api
+![ScreenshotPOST](assets/get_registro.JPG)
+-  Registrar
+Ingresamos el tocken y procedemos a ingrear los datos de registro
 ![ScreenshotPOST](assets/post_registro.JPG)
+
+### GET
+- Ver usuarios registrados
 ![ScreenshotPOST](assets/ver_usuarios)
+
+- Buscar cja  
+Realizamos la busqueda por fecha
+![ScreenshotPOST](assets/get_cajaecha.JPG)
+- Eliminar caja
+Ingresamos el Id en el link
+![ScreenshotPOST](assets/delet_delet.JPG)
+
+
 
 <br/>
 
