@@ -46,7 +46,7 @@ _nodemon server.js_
 
 _MONGO URI_ : En esta varibale se encuentra almacenada la base de datos mongo DB 
 
-_SEED_ : Almacenamosla clave de producción
+_SEED_ : Almacenamos la clave de producción
 - link:  https://bankcajas.herokuapp.com/
 
 
@@ -92,13 +92,6 @@ Ingresamos el Id en el link
 ### Top Languages:
 
 ![ScreenshotPOST](assets/lenguaje.JPG)
-</div>  
-
-### Uso
-
-<div markdown="1">
-<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
-</div>
 
 
 ### Agradecimeinto
