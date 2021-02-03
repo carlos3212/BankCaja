@@ -49,10 +49,10 @@ _MONGO URI_ : En esta varibale se encuentra almacenada la base de datos mongo DB
 _SEED_ : Almacenamosla clave de producción
 - link:  https://bankcajas.herokuapp.com/
 
-<br/>
-<br/>
+
 .
 # Uso
+
 Par consumir el servicio se  utilizara POSTMAN
 
 
@@ -62,17 +62,20 @@ Par consumir el servicio se  utilizara POSTMAN
 Ingresamos los datos del  usuario Administrador
 ![ScreenshotPOST](assets/post_login.JPG)
 
-- Uso del tocken
+- Uso del token
+
 Copiamos el token generado en el logeo y en el apartado de head creamos la variabl token y pegamos el token esto realizamos para realizar cualquier acción dentro del la api
 ![ScreenshotPOST](assets/get_registro.JPG)
 -  Registrar
 
 Ingresamos el token y procedemos a ingrear los datos de registro
-![ScreenshotPOST](assets/post_registro.JPG)
+
+![ScreenshotPOST](assets/ver_usuarios.JPG)
 
 ### GET
 - Ver usuarios registrados
-![ScreenshotPOST](assets/ver_usuarios.JPG)
+![ScreenshotPOST](assets/post_registro.JPG)
+
 
 - Buscar caja  
 Realizamos la busqueda por fecha
